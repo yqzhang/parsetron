@@ -112,5 +112,5 @@ Development
 TODO
 ----
 
-- [ ] Python 3 compatible
+- [x] Python 3 compatible
 - [ ] Unicode support
